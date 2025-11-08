@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Um frase impactante ✅</h1>
+    return <h1>Quem espera o momento perfeito, perde o poder de criá-lo. ✅</h1>
 }
 
 
