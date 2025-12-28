@@ -1,5 +1,3 @@
 export default function index() {
-  return (
-    <div>TESTE</div>
-  )
+  return <div>TESTE</div>;
 }
